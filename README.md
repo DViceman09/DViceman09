@@ -121,7 +121,9 @@ Mobile, web and API suites, plus load, regression and security testing. If it's 
 
 <img src="https://skillicons.dev/icons?i=unity,cs,java,selenium,gherkin,postman,git,github&theme=dark" alt="Unity, C#, Java, Selenium, Gherkin, Postman, Git, GitHub"/>
 
-**AI** &nbsp;`LLMs` `RAG` `Evals` `LangGraph` `LangFlow` `Ollama`<br/>
+**AI** &nbsp;`LLMs` `RAG` `LangGraph` `LangFlow` `Ollama`<br/>
+**Evals** &nbsp;`Langfuse` `Ragas` `DeepEval`<br/>
+**Guardrails** &nbsp;`Guardrails AI`<br/>
 **Agents** &nbsp;`Codex CLI` `Claude Code` `Unity MCP`<br/>
 **Game** &nbsp;`Unity` `ML-Agents` `Unity Test Framework`<br/>
 **Testing** &nbsp;`AltTester` `Selenium` `TestNG` `Rest Assured` `Postman` `HTTP Toolkit` `BDD`
