@@ -89,11 +89,6 @@ Tests run: 6, Passed: 5, Flaky: 1
 
 `LLMs` `RAG` `Evals` `LangGraph` `LangFlow` `Ollama` `Codex CLI` `Claude Code` `Unity MCP` `ML-Agents` `AltTester` `TestNG` `Rest Assured` `HTTP Toolkit` `Trello`
 
-### `~/activity`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DViceman09&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="GitHub contribution activity graph"/>
-<img src="https://streak-stats.demolab.com?user=DViceman09&theme=tokyonight&hide_border=true&border_radius=8" width="100%" alt="GitHub contribution streak"/>
-
 ### `~/contact`
 
 <a href="https://www.linkedin.com/in/sandesh-kadam-676776ab/"><img src="https://img.shields.io/badge/linkedin-sandesh--kadam-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="LinkedIn"/></a>
