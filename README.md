@@ -135,7 +135,7 @@ Mobile, web and API suites, plus load, regression and security testing. If it's 
 <br/><br/>
 
 <div align="center">
-  <sub><code>// built with AI, reviewed by a human. same as everything I ship.</code></sub>
-  <br/>
+  <img src="assets/signoff.svg" width="100%" alt="// built with AI, reviewed by a human. same as everything I ship."/>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Dviceman&style=flat-square&color=414868&label=visitors" alt="Profile visitors"/>
 </div>
