@@ -1,35 +1,65 @@
 <div align="center">
-  <img src="assets/terminal.svg" width="100%" alt="Terminal card. neofetch: Sandesh Kadam, Lead AI-Augmented Engineer at iXie Gaming (Indium Software), 10+ years in game QA, Bangalore. Then ./beliefs --loud prints: AI AMPLIFIES. IT DOESN'T REPLACE. NEVER STOP LEVELING UP."/>
+  <img src="assets/terminal.svg" width="100%" alt="Terminal card. neofetch: Sandesh Kadam, AI-Augmented Engineer and SDET, 10+ years in game QA, Bangalore. Then ./beliefs --loud prints: AI AMPLIFIES. IT DOESN'T REPLACE. NEVER STOP LEVELING UP."/>
 </div>
 
 <br/>
 
-### `~/now`
+### `~/focus`
 
-```console
-sandesh@ixie:~$ tail -f now.log
-[building]     an AI-assisted QA tool on open-source LLMs: test generation + knowledge retrieval
-[researching]  gameplay-agent training with Unity ML-Agents
-[shipped]      3 portfolio games, built AI-augmented with Unity MCP + Codex CLI
-[mentoring]    trainees, with structured learning plans
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI-assisted QA
+Test generation and knowledge retrieval on open-source LLMs, so testers spend their time on judgment, not grunt work.
+
+`llms` `rag` `evals` `ollama`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Gameplay agents
+Training and evaluating agents that play-test games, so coverage scales beyond what humans can click through.
+
+`unity` `ml-agents`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎮 Games built with coding agents
+Prototyping and shipping games faster, with AI pair-programmers doing the typing and me doing the thinking.
+
+`codex-cli` `claude-code` `unity-mcp`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧪 Test automation
+Mobile, web and API suites, plus load, regression and security testing. If it's repetitive, it gets automated.
+
+`selenium` `alttester` `testng` `rest-assured`
+
+</td>
+</tr>
+</table>
 
 ### `~/career`
 
-```console
-sandesh@ixie:~$ git log --oneline career
-* 2026  (HEAD -> career)  Lead AI-Augmented Engineer  ·  iXie Gaming / Indium Software
-* 2025                    SDET (AI-Assisted)          ·  Smash Head Studio
-* 2024                    M.S. Computer Science       ·  Scaler × Woolf University
-* 2022                    Senior QA Engineer          ·  MadOverGames
-* 2020                    QA Engineer                 ·  JetSynthesys
-* 2016                    Senior QA Engineer          ·  June Gaming
-* 2016                    BCA                         ·  Pune University
-* 2015  (tag: init)       Junior Tester               ·  Ubisoft India
-```
+| | When | Role | Studio | Leveled up |
+|:-:|:--|:--|:--|:--|
+| 🟢 | `2026 → now` | **Lead AI-Augmented Engineer** | iXie Gaming | AI-assisted QA tooling, ML-Agents R&D, mentoring |
+| 🔵 | `2025 → 2026` | **SDET (AI-Assisted)** | Smash Head Studio | Mobile, web & API automation, security testing |
+| 🔵 | `2022 → 2023` | **Senior QA Engineer** | MadOverGames | Test strategy, player satisfaction |
+| 🔵 | `2020 → 2022` | **QA Engineer** | JetSynthesys | AAA test process, live-ops, localization, team lead |
+| 🔵 | `2016 → 2020` | **Senior QA Engineer** | June Gaming | Test planning, crash & ANR monitoring |
+| 🔵 | `2015` | **Junior Tester** | Ubisoft | Exploratory, functional & regression testing |
+
+🎓 **M.S. Computer Science** · Scaler × Woolf University · `2024` &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 **BCA** · Pune University · `2016`
 
 <details>
-<summary><code>$ git show --stat career</code> &nbsp;·&nbsp; expand the full changelog</summary>
+<summary><b>📜 Full changelog</b> &nbsp;<sub>click to expand what I did in each role</sub></summary>
 <br/>
 
 **`2026 → now`** &nbsp; **Lead AI-Augmented Engineer** · iXie Gaming (Indium Software)
@@ -70,24 +100,33 @@ sandesh@ixie:~$ git log --oneline career
 
 ### `~/proof`
 
-```diff
-sandesh@ixie:~$ mvn test -Dsuite=career
+<img src="https://img.shields.io/badge/career.spec-12_passed-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="career.spec: 12 passed"/>
+<img src="https://img.shields.io/badge/failed-0-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="0 failed"/>
+<img src="https://img.shields.io/badge/since-2015-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="since 2015"/>
 
-+ PASS  Ubisoft        › 100% quality-gate pass rate before release
-+ PASS  JetSynthesys   › +50% team productivity after training junior testers
-+ PASS  MadOverGames   › 95% user satisfaction across Bubble Shooter titles
-+ PASS  MadOverGames   › 5+ test strategies delivered, all on time
-+ PASS  iXie Gaming    › 3 portfolio games built AI-augmented
-- FAIL  sleep.spec     › expected 8h, received 4h (flaky since 2015)
-
-Tests run: 6, Passed: 5, Flaky: 1
-```
+| | Test | Role | Result |
+|:-:|:--|:--|:--|
+| ✅ | ships games with AI, not around it | Lead AI-Augmented Engineer | **3** portfolio games built AI-augmented |
+| ✅ | puts open-source LLMs to work on QA | Lead AI-Augmented Engineer | AI-assisted test generation + knowledge retrieval |
+| ✅ | finds the holes before attackers do | SDET | API penetration testing, vulnerabilities fixed |
+| ✅ | automates the boring parts | SDET | Mobile, web & API suites, from smoke to load |
+| ✅ | keeps players happy | Senior QA Engineer <sub>'22</sub> | **95%** user satisfaction |
+| ✅ | never misses a deadline | Senior QA Engineer <sub>'22</sub> | **5+** test strategies, **100%** on time |
+| ✅ | levels up the team | QA Engineer | **+50%** junior team productivity |
+| ✅ | builds QA from zero | QA Engineer | Full test process for a **AAA** project |
+| ✅ | keeps live games stable | Senior QA Engineer <sub>'16</sub> | Crashes & ANRs tracked across multiple titles |
+| ✅ | plans the work, leads the team | Senior QA Engineer <sub>'16</sub> | Test planning and delegation, on schedule |
+| ✅ | lets nothing broken ship | Junior Tester | **100%** quality-gate pass rate before release |
+| ✅ | makes the process faster | Junior Tester | **+20%** efficiency through process improvements |
 
 ### `~/toolkit`
 
 <img src="https://skillicons.dev/icons?i=unity,cs,java,selenium,gherkin,postman,git,github&theme=dark" alt="Unity, C#, Java, Selenium, Gherkin, Postman, Git, GitHub"/>
 
-`LLMs` `RAG` `Evals` `LangGraph` `LangFlow` `Ollama` `Codex CLI` `Claude Code` `Unity MCP` `ML-Agents` `AltTester` `TestNG` `Rest Assured` `HTTP Toolkit` `Trello`
+**AI** &nbsp;`LLMs` `RAG` `Evals` `LangGraph` `LangFlow` `Ollama`<br/>
+**Agents** &nbsp;`Codex CLI` `Claude Code` `Unity MCP`<br/>
+**Game** &nbsp;`Unity` `ML-Agents` `Unity Test Framework`<br/>
+**Testing** &nbsp;`AltTester` `Selenium` `TestNG` `Rest Assured` `Postman` `HTTP Toolkit` `BDD`
 
 ### `~/contact`
 
