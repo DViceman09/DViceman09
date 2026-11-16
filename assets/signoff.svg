@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="title">
+<title id="title">// built with AI, reviewed by a human. same as everything I ship.</title>
+<style>
+text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',SFMono-Regular,Consolas,Menlo,monospace}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<defs>
+<filter id="glow" x="-5%" y="-60%" width="110%" height="220%"><feGaussianBlur stdDeviation="6" result="b"/><feComponentTransfer in="b" result="b2"><feFuncA type="linear" slope=".5"/></feComponentTransfer><feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" opacity=".025"/></pattern>
+</defs>
+<rect width="900" height="170" rx="12" fill="#1a1b26"/>
+<g filter="url(#glow)">
+<text x="450" y="80" font-size="30" font-weight="800" text-anchor="middle" textLength="684" lengthAdjust="spacing"><tspan fill="#565f89">// </tspan><tspan fill="#c0caf5">built with </tspan><tspan fill="#9ece6a">AI</tspan><tspan fill="#c0caf5">. reviewed by a </tspan><tspan fill="#bb9af7">human</tspan><tspan fill="#c0caf5">.</tspan></text>
+</g>
+<text x="450" y="126" font-size="22" text-anchor="middle" textLength="343.2" lengthAdjust="spacing" fill="#7982a9" font-style="italic">same as everything I ship.</text>
+<rect x="628" y="110" width="12" height="20" fill="#c0caf5" class="cur"/>
+<rect x="0" y="0" width="900" height="170" rx="12" fill="url(#scan)"/>
+<rect x=".5" y=".5" width="899" height="169" rx="12" fill="none" stroke="#2f334d"/>
+</svg>
