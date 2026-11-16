@@ -49,11 +49,11 @@ Mobile, web and API suites, plus load, regression and security testing. If it's 
 
 | | When | Role | Studio | Leveled up |
 |:-:|:--|:--|:--|:--|
-| 🟢 | `2026 → now` | **Lead AI-Augmented Engineer** | iXie Gaming | AI-assisted QA tooling, ML-Agents R&D, mentoring |
-| 🔵 | `2025 → 2026` | **SDET (AI-Assisted)** | Smash Head Studio | Mobile, web & API automation, security testing |
-| 🔵 | `2022 → 2023` | **Senior QA Engineer** | MadOverGames | Test strategy, player satisfaction |
-| 🔵 | `2020 → 2022` | **QA Engineer** | JetSynthesys | AAA test process, live-ops, localization, team lead |
-| 🔵 | `2016 → 2020` | **Senior QA Engineer** | June Gaming | Test planning, crash & ANR monitoring |
+| 🟢 | `2026 → now` | **Lead AI-Augmented Engineer** | iXie Gaming | AI-assisted QA tooling, ML-Agents R&D, mentoring |
+| 🔵 | `2025 → 2026` | **SDET (AI-Assisted)** | Smash Head Studio | Mobile, web & API automation, security testing |
+| 🔵 | `2022 → 2023` | **Senior QA Engineer** | MadOverGames | Test strategy, player satisfaction |
+| 🔵 | `2020 → 2022` | **QA Engineer** | JetSynthesys | AAA test process, live-ops, localization, team lead |
+| 🔵 | `2016 → 2020` | **Senior QA Engineer** | June Gaming | Test planning, crash & ANR monitoring |
 | 🔵 | `2015` | **Junior Tester** | Ubisoft | Exploratory, functional & regression testing |
 
 🎓 **M.S. Computer Science** · Scaler × Woolf University · `2024` &nbsp;&nbsp;|&nbsp;&nbsp; 🎓 **BCA** · Pune University · `2016`
@@ -100,9 +100,7 @@ Mobile, web and API suites, plus load, regression and security testing. If it's 
 
 ### `~/proof`
 
-<img src="https://img.shields.io/badge/career.spec-12_passed-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="career.spec: 12 passed"/>
-<img src="https://img.shields.io/badge/failed-0-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="0 failed"/>
-<img src="https://img.shields.io/badge/since-2015-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="since 2015"/>
+<img src="https://img.shields.io/badge/career.spec-12_passed-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="career.spec: 12 passed"/> <img src="https://img.shields.io/badge/failed-0-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="0 failed"/> <img src="https://img.shields.io/badge/since-2015-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="since 2015"/>
 
 | | Test | Role | Result |
 |:-:|:--|:--|:--|
